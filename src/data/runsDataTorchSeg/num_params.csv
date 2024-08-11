@@ -1,0 +1,25 @@
+name,num_param,model,encoder,iou,cldice,mem
+Unet - regnety_064,35202894,Unet,RegNetY_064,0.7693,0.9249,271.8
+Unet - regnety_002,5259246,Unet,RegNetY_002,0.7576,0.9214,40.4
+Unet - resnet50,32521250,Unet,ResNet50,0.7615,0.9169,251.6
+Unet - resnet18,14328354,Unet,ResNet18,0.7801,0.9264,159.6
+Unet - efficientnet_b5,30156562,Unet,EfficientNet-b5,0.7743,0.9269,235.7
+Unet - efficientnet_b0,5834846,Unet,EfficientNet-b0,0.7570,0.9138,45.5
+Unet - densenet161,38738466,Unet,DenseNet161,0.7902,0.9336,298.9
+Unet - densenet121,13607778,Unet,DenseNet121,0.7817,0.9300,104.3
+Unet - swinv2_tiny_window8_256,31680236,Unet,SwinV2_Tiny,0.7387,0.9150,244.7
+FPN - regnety_064,31501166,FPN,RegNetY_064,0.6209,0.8259,245.8
+FPN - regnety_002,4572686,FPN,RegNetY_002,0.6246,0.8308,84.7
+FPN - resnet50,26116162,FPN,ResNet50,0.6170,0.8156,203.4
+FPN - resnet18,13047362,FPN,ResNet18,0.6737,0.8830,152.7
+FPN - efficientnet-b5,29115954,FPN,EfficientNet-b5,0.6456,0.8601,225.9
+FPN - efficientnet_b0,5347454,FPN,EfficientNet-b0,0.7325,0.9197,41.1
+FPN - densenet161,29497922,FPN,DenseNet161,0.6378,0.8534,231.1
+FPN - densenet121,9299842,FPN,DenseNet121,0.5213,0,73.1
+FPN - swinv2_tiny_window8_256,29570348,FPN,SwinV2_Tiny,0.6264,0.8524,232.1
+DLV3+ - regnety_064,31467822,DeepLabV3,RegNetY_064,0.7200,0.9066,244.4
+DLV3+ - regnety_002,3756910,DeepLabV3,RegNetY_002,0.7104,0.9073,77.5
+DLV3+ - resnet50,26677842,DeepLabV3,ResNet50,0.7128,0.8956,207.2
+DLV3+ - resnet18,12329554,DeepLabV3,ResNet18,0.7083,0.8978,144.2
+DLV3+ - efficientnet-b5,28440002,DeepLabV3,EfficientNet-b5,0.7280,0.8999,220.8
+DLV3+ - efficientnet_b0,4495566,DeepLabV3,EfficientNet-b0,0.6456,0.8625,34.6

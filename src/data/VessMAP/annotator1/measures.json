@@ -1,0 +1,602 @@
+{
+  "13528": {
+    "contrast": 0.1399714525718384,
+    "density": 0.019550756134976217,
+    "gauss_noise_estimation": 0.7334646048922717,
+    "skeleton_res_heterogeneity": -0.3616394788866204
+  },
+  "2413": {
+    "contrast": 0.5709471772149738,
+    "density": 0.020581847338723883,
+    "gauss_noise_estimation": 0.21057771844073117,
+    "skeleton_res_heterogeneity": 0.9905890840519391
+  },
+  "1585": {
+    "contrast": 0.31125137463358155,
+    "density": 0.04106421089357867,
+    "gauss_noise_estimation": 0.33047718671912835,
+    "skeleton_res_heterogeneity": -0.0037595878227276724
+  },
+  "12943": {
+    "contrast": 0.24198570665073105,
+    "density": 0.0254109524220423,
+    "gauss_noise_estimation": 0.6170642020135982,
+    "skeleton_res_heterogeneity": 0.5860612532411609
+  },
+  "6672": {
+    "contrast": 0.25901620841611706,
+    "density": 0.0287235661676097,
+    "gauss_noise_estimation": 0.49096194591435705,
+    "skeleton_res_heterogeneity": 0.2001453335114025
+  },
+  "14778": {
+    "contrast": 0.15341117784024128,
+    "density": 0.04700847804233723,
+    "gauss_noise_estimation": 0.3449235787944674,
+    "skeleton_res_heterogeneity": -0.5345906272989511
+  },
+  "7577": {
+    "contrast": 0.29116932237466786,
+    "density": 0.06476596096348052,
+    "gauss_noise_estimation": 0.42754380556221777,
+    "skeleton_res_heterogeneity": 0.16665519777909354
+  },
+  "17584": {
+    "contrast": 0.14946697523297836,
+    "density": 0.05749148410541512,
+    "gauss_noise_estimation": 0.2695587337667889,
+    "skeleton_res_heterogeneity": -0.43327870224834797
+  },
+  "17852": {
+    "contrast": 0.2893444974421776,
+    "density": 0.02502424670685511,
+    "gauss_noise_estimation": 0.6620017525269778,
+    "skeleton_res_heterogeneity": 0.47801467582080304
+  },
+  "13128": {
+    "contrast": 0.4788143223363319,
+    "density": 0.023642280421227006,
+    "gauss_noise_estimation": 0.2548773774908489,
+    "skeleton_res_heterogeneity": 0.7428232995693742
+  },
+  "1816": {
+    "contrast": 0.1534845854725445,
+    "density": 0.058785150882919336,
+    "gauss_noise_estimation": 0.31187874156088496,
+    "skeleton_res_heterogeneity": -0.5231062896974527
+  },
+  "5472": {
+    "contrast": 0.18409138924113067,
+    "density": 0.044637308461958985,
+    "gauss_noise_estimation": 0.32176113503589115,
+    "skeleton_res_heterogeneity": 0.3527950097652295
+  },
+  "7413": {
+    "contrast": 0.12276846249410067,
+    "density": 0.04459340586857477,
+    "gauss_noise_estimation": 0.1420135050902096,
+    "skeleton_res_heterogeneity": -0.6145434967913375
+  },
+  "7783": {
+    "contrast": 0.13928373616149503,
+    "density": 0.06657898473449159,
+    "gauss_noise_estimation": 0.34019859648349077,
+    "skeleton_res_heterogeneity": -0.5788489193857729
+  },
+  "1643": {
+    "contrast": 0.21064438562781174,
+    "density": 0.03256836375656126,
+    "gauss_noise_estimation": 0.6647365398580003,
+    "skeleton_res_heterogeneity": -0.13403197192837468
+  },
+  "11098": {
+    "contrast": 0.17475488495142033,
+    "density": 0.03987309507106742,
+    "gauss_noise_estimation": 0.4131258675609648,
+    "skeleton_res_heterogeneity": -0.27250209736232156
+  },
+  "6384": {
+    "contrast": 0.3131925229056536,
+    "density": 0.046565151872458625,
+    "gauss_noise_estimation": 0.4130477989220812,
+    "skeleton_res_heterogeneity": 0.1990117412462442
+  },
+  "3882": {
+    "contrast": 0.11951654042171178,
+    "density": 0.016220156617463774,
+    "gauss_noise_estimation": 0.5873877459707676,
+    "skeleton_res_heterogeneity": -0.38849007553425796
+  },
+  "14225": {
+    "contrast": 0.1632437160959631,
+    "density": 0.030187062387174994,
+    "gauss_noise_estimation": 0.3685942677157776,
+    "skeleton_res_heterogeneity": -0.36503559347929493
+  },
+  "6818": {
+    "contrast": 0.39672549781247146,
+    "density": 0.03647723175087362,
+    "gauss_noise_estimation": 0.17719081977514592,
+    "skeleton_res_heterogeneity": 0.02054430645202121
+  },
+  "18180": {
+    "contrast": 0.5436083360986592,
+    "density": 0.015221565754214631,
+    "gauss_noise_estimation": 0.1771908197751459,
+    "skeleton_res_heterogeneity": 0.5661506863666781
+  },
+  "8065": {
+    "contrast": 0.37918535458182634,
+    "density": 0.01971867988122078,
+    "gauss_noise_estimation": 0.25894467997820825,
+    "skeleton_res_heterogeneity": 0.17352504108423372
+  },
+  "17425": {
+    "contrast": 0.1673186611990184,
+    "density": 0.021095038067969685,
+    "gauss_noise_estimation": 0.48725408009149657,
+    "skeleton_res_heterogeneity": -0.08862437782794652
+  },
+  "14440": {
+    "contrast": 0.13730406925026528,
+    "density": 0.0721982936228088,
+    "gauss_noise_estimation": 0.21097348242162126,
+    "skeleton_res_heterogeneity": -0.22975248434432705
+  },
+  "3406": {
+    "contrast": 0.27420487137097227,
+    "density": 0.07128007121818936,
+    "gauss_noise_estimation": 0.4239150518102526,
+    "skeleton_res_heterogeneity": 0.3067732145432138
+  },
+  "14121": {
+    "contrast": 0.25615631396087535,
+    "density": 0.029586810691669865,
+    "gauss_noise_estimation": 0.49454354226410213,
+    "skeleton_res_heterogeneity": 0.4039901332402489
+  },
+  "9284": {
+    "contrast": 0.28951819629118936,
+    "density": 0.07756164237844193,
+    "gauss_noise_estimation": 0.3723627534832303,
+    "skeleton_res_heterogeneity": -0.07377638950871424
+  },
+  "2546": {
+    "contrast": 0.11008734276719034,
+    "density": 0.04674313034115415,
+    "gauss_noise_estimation": 0.3162542847584317,
+    "skeleton_res_heterogeneity": -0.5438864764725511
+  },
+  "12877": {
+    "contrast": 0.24124037318179525,
+    "density": 0.03153626521062028,
+    "gauss_noise_estimation": 0.3192768112654629,
+    "skeleton_res_heterogeneity": -0.014822773014369961
+  },
+  "17035": {
+    "contrast": 0.29966433099267964,
+    "density": 0.05915723304098286,
+    "gauss_noise_estimation": 0.5518947641043223,
+    "skeleton_res_heterogeneity": 0.924261667589592
+  },
+  "8353": {
+    "contrast": 0.3057154825010413,
+    "density": 0.04164303753576036,
+    "gauss_noise_estimation": 0.28306065239455447,
+    "skeleton_res_heterogeneity": 0.5596061085829376
+  },
+  "4404": {
+    "contrast": 0.2993240880825474,
+    "density": 0.03801593750700103,
+    "gauss_noise_estimation": 0.5379970913238579,
+    "skeleton_res_heterogeneity": 1.485949249671103
+  },
+  "2050": {
+    "contrast": 0.20410923235130518,
+    "density": 0.058646365262351924,
+    "gauss_noise_estimation": 0.2870123182166117,
+    "skeleton_res_heterogeneity": -0.07885739088804455
+  },
+  "11411": {
+    "contrast": 0.32078071789975227,
+    "density": 0.011620754657148943,
+    "gauss_noise_estimation": 0.5600293721373987,
+    "skeleton_res_heterogeneity": 0.9339792177515571
+  },
+  "12005": {
+    "contrast": 0.22068374749854514,
+    "density": 0.037643778282380455,
+    "gauss_noise_estimation": 0.42755002421570903,
+    "skeleton_res_heterogeneity": 0.2681861098405691
+  },
+  "11828": {
+    "contrast": 0.20784157129119984,
+    "density": 0.07731626321157746,
+    "gauss_noise_estimation": 0.3995252249716852,
+    "skeleton_res_heterogeneity": -0.3064377299032144
+  },
+  "482": {
+    "contrast": 0.22866011098746863,
+    "density": 0.030979357943117538,
+    "gauss_noise_estimation": 0.5560975958068817,
+    "skeleton_res_heterogeneity": 0.09179619926504556
+  },
+  "5740": {
+    "contrast": 0.26071100568992156,
+    "density": 0.05840024187497846,
+    "gauss_noise_estimation": 0.2438684991853097,
+    "skeleton_res_heterogeneity": 0.29821472262065907
+  },
+  "10571": {
+    "contrast": 0.1117111788110442,
+    "density": 0.03126729217293152,
+    "gauss_noise_estimation": 0.9714706942246465,
+    "skeleton_res_heterogeneity": -0.6425778490186627
+  },
+  "16766": {
+    "contrast": 0.22674185554994175,
+    "density": 0.029327148155923046,
+    "gauss_noise_estimation": 0.5766783681738716,
+    "skeleton_res_heterogeneity": 0.05747612139298597
+  },
+  "8990": {
+    "contrast": 0.3316790111639373,
+    "density": 0.028094888644923283,
+    "gauss_noise_estimation": 0.4801413791960875,
+    "skeleton_res_heterogeneity": 0.39039739614378854
+  },
+  "12749": {
+    "contrast": 0.282358372104911,
+    "density": 0.03510465303374448,
+    "gauss_noise_estimation": 0.5488048276395632,
+    "skeleton_res_heterogeneity": 0.5126245561094636
+  },
+  "7083": {
+    "contrast": 0.331294518007181,
+    "density": 0.03587925786143946,
+    "gauss_noise_estimation": 0.3728452674212496,
+    "skeleton_res_heterogeneity": -0.008762984395722428
+  },
+  "14690": {
+    "contrast": 0.13533282806891578,
+    "density": 0.042167444462764554,
+    "gauss_noise_estimation": 0.3521353320504867,
+    "skeleton_res_heterogeneity": -0.2057273029513209
+  },
+  "6524": {
+    "contrast": 0.3353190535770574,
+    "density": 0.053308034974534776,
+    "gauss_noise_estimation": 0.33173151732524375,
+    "skeleton_res_heterogeneity": 0.5799022780562455
+  },
+  "15577": {
+    "contrast": 0.3259347419970482,
+    "density": 0.03230795700030545,
+    "gauss_noise_estimation": 0.2173776686099542,
+    "skeleton_res_heterogeneity": 0.1583622207500448
+  },
+  "525": {
+    "contrast": 0.18135115467569285,
+    "density": 0.03324390205518557,
+    "gauss_noise_estimation": 0.24155347162220306,
+    "skeleton_res_heterogeneity": -0.041167750477949516
+  },
+  "8429": {
+    "contrast": 0.17992833556744203,
+    "density": 0.06736376649573846,
+    "gauss_noise_estimation": 0.19618367311806106,
+    "skeleton_res_heterogeneity": -0.22217343896728758
+  },
+  "9710": {
+    "contrast": 0.21961135981557633,
+    "density": 0.07194468836275271,
+    "gauss_noise_estimation": 0.6583371507943617,
+    "skeleton_res_heterogeneity": 0.5205114135038076
+  },
+  "2958": {
+    "contrast": 0.11053508207336549,
+    "density": 0.041819745540578206,
+    "gauss_noise_estimation": 0.30066383828358184,
+    "skeleton_res_heterogeneity": -0.46024387223519625
+  },
+  "458": {
+    "contrast": 0.32912878930420264,
+    "density": 0.052168303618090266,
+    "gauss_noise_estimation": 0.3281106687963745,
+    "skeleton_res_heterogeneity": 0.47913599811921914
+  },
+  "16295": {
+    "contrast": 0.17879911591594178,
+    "density": 0.04949820158728001,
+    "gauss_noise_estimation": 0.47935415571755186,
+    "skeleton_res_heterogeneity": -0.01972554012094241
+  },
+  "4909": {
+    "contrast": 0.17183831705578356,
+    "density": 0.06621819584074351,
+    "gauss_noise_estimation": 0.192803576213302,
+    "skeleton_res_heterogeneity": -0.4200893279016905
+  },
+  "13114": {
+    "contrast": 0.1862616754243801,
+    "density": 0.01868108222497078,
+    "gauss_noise_estimation": 0.5126888495588078,
+    "skeleton_res_heterogeneity": 0.08188987940567749
+  },
+  "6887": {
+    "contrast": 0.23624227465825143,
+    "density": 0.04828677704220878,
+    "gauss_noise_estimation": 0.25085742828851826,
+    "skeleton_res_heterogeneity": -0.1438872512677818
+  },
+  "11558": {
+    "contrast": 0.20469005419935793,
+    "density": 0.0251436219584857,
+    "gauss_noise_estimation": 0.41001132433055065,
+    "skeleton_res_heterogeneity": 0.10483055890544657
+  },
+  "9452": {
+    "contrast": 0.3085700370391323,
+    "density": 0.06572004592341982,
+    "gauss_noise_estimation": 0.4361753362328897,
+    "skeleton_res_heterogeneity": 0.5308860787603631
+  },
+  "8256": {
+    "contrast": 0.21851093914661668,
+    "density": 0.01962993119628537,
+    "gauss_noise_estimation": 0.7755741860220552,
+    "skeleton_res_heterogeneity": 0.31356320917740255
+  },
+  "5359": {
+    "contrast": 0.24952998389752457,
+    "density": 0.053199054633596546,
+    "gauss_noise_estimation": 0.26516421224947584,
+    "skeleton_res_heterogeneity": 0.10649170831770838
+  },
+  "2071": {
+    "contrast": 0.3473703191825468,
+    "density": 0.04490429873727418,
+    "gauss_noise_estimation": 0.31415526988554343,
+    "skeleton_res_heterogeneity": 0.165343357628168
+  },
+  "9860": {
+    "contrast": 0.22944222425656602,
+    "density": 0.044968028954393585,
+    "gauss_noise_estimation": 0.26983912541370453,
+    "skeleton_res_heterogeneity": 0.351159708687655
+  },
+  "356": {
+    "contrast": 0.1285445065789972,
+    "density": 0.0650149203223068,
+    "gauss_noise_estimation": 0.3352207816270033,
+    "skeleton_res_heterogeneity": -0.5798903428991837
+  },
+  "6581": {
+    "contrast": 0.3426372614560017,
+    "density": 0.05043657858134522,
+    "gauss_noise_estimation": 0.30043322034580533,
+    "skeleton_res_heterogeneity": 0.3672256885688254
+  },
+  "9523": {
+    "contrast": 0.20844411064926038,
+    "density": 0.023694114064105265,
+    "gauss_noise_estimation": 0.7401985622845466,
+    "skeleton_res_heterogeneity": 0.601402085281814
+  },
+  "12618": {
+    "contrast": 0.16582984261668932,
+    "density": 0.058502529708287086,
+    "gauss_noise_estimation": 0.17571419086701445,
+    "skeleton_res_heterogeneity": 0.4809871059288966
+  },
+  "16707": {
+    "contrast": 0.3119896572602846,
+    "density": 0.031529200592736166,
+    "gauss_noise_estimation": 0.44106436667262655,
+    "skeleton_res_heterogeneity": 1.2623310210979344
+  },
+  "2287": {
+    "contrast": 0.2997245129856835,
+    "density": 0.028203946052418615,
+    "gauss_noise_estimation": 0.5344277765219826,
+    "skeleton_res_heterogeneity": 0.6567946345219204
+  },
+  "7344": {
+    "contrast": 0.18363918020886605,
+    "density": 0.03877618189925661,
+    "gauss_noise_estimation": 0.2719227925737973,
+    "skeleton_res_heterogeneity": -0.06360805738069253
+  },
+  "12455": {
+    "contrast": 0.444250065836747,
+    "density": 0.0203893543014749,
+    "gauss_noise_estimation": 0.3197171593836258,
+    "skeleton_res_heterogeneity": 0.03272344276014705
+  },
+  "11111": {
+    "contrast": 0.21628505168918777,
+    "density": 0.033071531685369256,
+    "gauss_noise_estimation": 0.6657807912225535,
+    "skeleton_res_heterogeneity": 0.43872572817104794
+  },
+  "5801": {
+    "contrast": 0.18313640084683813,
+    "density": 0.05244875597522169,
+    "gauss_noise_estimation": 0.3584256504374076,
+    "skeleton_res_heterogeneity": -0.49960516202132466
+  },
+  "17880": {
+    "contrast": 0.18021393755937054,
+    "density": 0.04255534357527234,
+    "gauss_noise_estimation": 0.2292662902519348,
+    "skeleton_res_heterogeneity": -0.09887126649887934
+  },
+  "8196": {
+    "contrast": 0.14283892096724937,
+    "density": 0.06560784427824348,
+    "gauss_noise_estimation": 0.3775639838664385,
+    "skeleton_res_heterogeneity": -0.6656921887838883
+  },
+  "16689": {
+    "contrast": 0.2689953284247971,
+    "density": 0.055682085670909716,
+    "gauss_noise_estimation": 0.4421689972252746,
+    "skeleton_res_heterogeneity": 0.743204463165827
+  },
+  "4938": {
+    "contrast": 0.14314684864871663,
+    "density": 0.02523300587535993,
+    "gauss_noise_estimation": 0.5151612802136619,
+    "skeleton_res_heterogeneity": -0.13994096649469134
+  },
+  "4739": {
+    "contrast": 0.19273312360579087,
+    "density": 0.025113893745413642,
+    "gauss_noise_estimation": 0.7577290095768874,
+    "skeleton_res_heterogeneity": 0.5743075680526233
+  },
+  "15375": {
+    "contrast": 0.24333250496911674,
+    "density": 0.04932474680871329,
+    "gauss_noise_estimation": 0.19612455348051663,
+    "skeleton_res_heterogeneity": 0.6476207028545307
+  },
+  "18035": {
+    "contrast": 0.28853702366491263,
+    "density": 0.058359701496415665,
+    "gauss_noise_estimation": 0.24990252572174768,
+    "skeleton_res_heterogeneity": 0.25801433002634555
+  },
+  "17630": {
+    "contrast": 0.46226796993185215,
+    "density": 0.022034685525912555,
+    "gauss_noise_estimation": 0.2471065239043321,
+    "skeleton_res_heterogeneity": 1.0278669785670567
+  },
+  "15160": {
+    "contrast": 0.2449327549286493,
+    "density": 0.03252004646161847,
+    "gauss_noise_estimation": 0.5036594134261607,
+    "skeleton_res_heterogeneity": 0.12391825041730509
+  },
+  "17702": {
+    "contrast": 0.3001287440426452,
+    "density": 0.05225562770603388,
+    "gauss_noise_estimation": 0.42589869419596627,
+    "skeleton_res_heterogeneity": 0.4371683299180644
+  },
+  "2643": {
+    "contrast": 0.15669621532807643,
+    "density": 0.06573092193293682,
+    "gauss_noise_estimation": 0.3666581889283527,
+    "skeleton_res_heterogeneity": 0.16725196378342466
+  },
+  "14787": {
+    "contrast": 0.23782942236223248,
+    "density": 0.04952303399996875,
+    "gauss_noise_estimation": 0.40473908717001417,
+    "skeleton_res_heterogeneity": 0.13223987556400174
+  },
+  "7865": {
+    "contrast": 0.1423352283379844,
+    "density": 0.059397934384604445,
+    "gauss_noise_estimation": 0.3959435993105797,
+    "skeleton_res_heterogeneity": -0.6687295284251507
+  },
+  "6656": {
+    "contrast": 0.28625383574959673,
+    "density": 0.04728889847745554,
+    "gauss_noise_estimation": 0.3094687882484599,
+    "skeleton_res_heterogeneity": 0.02019755298895687
+  },
+  "4413": {
+    "contrast": 0.31057192375347065,
+    "density": 0.029976429444866847,
+    "gauss_noise_estimation": 0.37146355927196634,
+    "skeleton_res_heterogeneity": 0.5082982388399697
+  },
+  "9000": {
+    "contrast": 0.19544721829999656,
+    "density": 0.03606543050131337,
+    "gauss_noise_estimation": 0.6438008040791079,
+    "skeleton_res_heterogeneity": 0.02474962883083487
+  },
+  "12335": {
+    "contrast": 0.16896348481823942,
+    "density": 0.0564277835725987,
+    "gauss_noise_estimation": 0.35670098255483745,
+    "skeleton_res_heterogeneity": -0.7060732669089982
+  },
+  "10084": {
+    "contrast": 0.20958780470855987,
+    "density": 0.015614777921904154,
+    "gauss_noise_estimation": 0.5720639687120461,
+    "skeleton_res_heterogeneity": 1.2483228901113392
+  },
+  "8686": {
+    "contrast": 0.13146095011795422,
+    "density": 0.04915562966514816,
+    "gauss_noise_estimation": 0.24575018970941145,
+    "skeleton_res_heterogeneity": -0.4117809560352461
+  },
+  "15821": {
+    "contrast": 0.2075147528507838,
+    "density": 0.05301531393290776,
+    "gauss_noise_estimation": 0.24362940912939948,
+    "skeleton_res_heterogeneity": -0.25426704637667774
+  },
+  "7392": {
+    "contrast": 0.22306062616744315,
+    "density": 0.06211130377686006,
+    "gauss_noise_estimation": 0.23657514858397105,
+    "skeleton_res_heterogeneity": -0.28853001911676923
+  },
+  "13200": {
+    "contrast": 0.17483155798994687,
+    "density": 0.07562893508957205,
+    "gauss_noise_estimation": 0.35772210156164014,
+    "skeleton_res_heterogeneity": -0.518480955149939
+  },
+  "8284": {
+    "contrast": 0.28459935070882403,
+    "density": 0.019900251764408815,
+    "gauss_noise_estimation": 0.46135490673599483,
+    "skeleton_res_heterogeneity": 0.5768906457710181
+  },
+  "11161": {
+    "contrast": 0.2895184270429446,
+    "density": 0.03232549359543892,
+    "gauss_noise_estimation": 0.18798271275075376,
+    "skeleton_res_heterogeneity": 0.025511771337252576
+  },
+  "2849": {
+    "contrast": 0.3516584214243422,
+    "density": 0.023308569824225522,
+    "gauss_noise_estimation": 0.27164321273968245,
+    "skeleton_res_heterogeneity": -0.04377890084124847
+  },
+  "12960": {
+    "contrast": 0.2874553567965157,
+    "density": 0.04021323505401413,
+    "gauss_noise_estimation": 0.10138296030145297,
+    "skeleton_res_heterogeneity": 0.2766913502332149
+  },
+  "8493": {
+    "contrast": 0.16189092384075354,
+    "density": 0.028800604333431214,
+    "gauss_noise_estimation": 0.6447280971604971,
+    "skeleton_res_heterogeneity": 0.06907078608422745
+  },
+  "9593": {
+    "contrast": 0.2816901612262157,
+    "density": 0.03633252976519878,
+    "gauss_noise_estimation": 0.39850956368283463,
+    "skeleton_res_heterogeneity": 0.3648769990971159
+  },
+  "8506": {
+    "contrast": 0.25815111615760034,
+    "density": 0.03504436209800352,
+    "gauss_noise_estimation": 0.291303860250697,
+    "skeleton_res_heterogeneity": 0.3895555990796771
+  }
+}

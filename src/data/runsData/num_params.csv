@@ -1,0 +1,14 @@
+name,num_param,model,acc
+unet-regnety_064,35706215,unet,0.9515
+unet-regnety_002,5322635,unet,0.9403
+unet-regnety_016,14712615,unet,0.9418
+unet-resnet50,33816221,unet,0.9466
+unet-efficientnet-b5,31307837,unet,0.9424
+unet-densenet161,41262853,unet,0.9425
+fpn-regnety_064,31501166,fpn,0.9302
+fpn-resnet50,26116162,fpn,0.9221
+fpn-efficientnet-b5,30168626,fpn,0.9284
+fpn-densenet161,29497922,fpn,0.9073
+dl-regnety_064,31467822,deeplabv3,0.9359
+dl-resnet50,26677842,deeplabv3,0.9359
+dl-efficientnet-b5,29492674,deeplabv3,0.9394
