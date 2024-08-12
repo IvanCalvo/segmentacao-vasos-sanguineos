@@ -13,3 +13,8 @@ No repositório há notebooks utilizados para preparar o _dataset_, treinar os m
 
 Curso de Visão Computacional do Prof. Dr. Cesar Comin, presente no repositório https://github.com/chcomin/curso-visao-computacional-2024/
 
+Biblioteca _TorchSeg_ disponível em: https://github.com/isaaccorley/torchseg
+
+_TensorBoard_ disponível em: https://github.com/tensorflow/tensorboard/
+
+_clDice_: https://github.com/jocpae/clDice
