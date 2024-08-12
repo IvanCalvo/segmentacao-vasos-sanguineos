@@ -11,5 +11,5 @@ No repositório há notebooks utilizados para preparar o _dataset_, treinar os m
 
 ## Referências 
 
-Curso de Visão Computacional do Pr.Dr. Cesar Comin, presente no repositório https://github.com/chcomin/curso-visao-computacional-2024/
+Curso de Visão Computacional do Prof. Dr. Cesar Comin, presente no repositório https://github.com/chcomin/curso-visao-computacional-2024/
 
