@@ -1,6 +1,7 @@
 # Comparação de Redes Neurais na Segmentação de Vasos Sanguíneos em Imagens Médicas
 
 ### Autor: Ivan Duarte Calvo
+
 ### Orientador: Prof. Dr. Cesar H. Comin
 
 Esse é o repositório com os _notebooks_ e gráficos gerados no desenvolvimento do Trabalho de Conclusão de Curso realizado no Departamento da Computação da Universidade Federeal de São Carlos no curso de Bacharelado em Ciência da Compuação.
